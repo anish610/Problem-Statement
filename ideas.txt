@@ -1,1 +1,3 @@
-
+1)Student attention system using CCTV cameras
+2)Teachers attendence system using Card swipe machine and CCTV cameras 
+ 
